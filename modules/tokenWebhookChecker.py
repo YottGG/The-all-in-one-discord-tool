@@ -8,7 +8,7 @@ b = fg(31)
 w = fg(15)
 
 def token():
-    token = input(f"\n {r2}[{b}?{r2}] Token:NjM5NTA0MDY2ODc1MjI4MTYw.YJ5_cA.qGyJ2s60PkYhQV07UYKrpCv7sjY ")
+    token = input(f"\n {r2}[{b}?{r2}] Token:")
 
     print(f" {r2}[{b}+{r2}] Getting user information")
     time.sleep(.5)
